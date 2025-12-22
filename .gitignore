@@ -1,0 +1,35 @@
+# Ignore test and train directories
+test/
+train/
+
+# Ignore Streaming.csv
+Streaming.csv
+
+# Common Python/IDE ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
