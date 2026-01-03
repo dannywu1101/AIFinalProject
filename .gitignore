@@ -1,6 +1,7 @@
 # Ignore test and train directories
 test/
 train/
+organized_data/
 
 # Ignore Streaming.csv
 Streaming.csv
@@ -32,4 +33,5 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
 
